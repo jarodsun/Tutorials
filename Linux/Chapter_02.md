@@ -14,6 +14,10 @@ https://ubuntu.com/
 4. 虚拟机安装
 5. WSL2 https://learn.microsoft.com/zh-cn/windows/wsl/install
 
+### vbox
+
+虚拟机官网： https://www.virtualbox.org/
+
 ### 其他发行版官网
 
 https://www.centos.org/

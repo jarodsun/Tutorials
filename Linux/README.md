@@ -12,23 +12,11 @@
 
 ## 2. [Linux安装](./Chapter_02.md)
 
-选择合适的Linux发行版
 
-创建可启动的USB驱动器
-
-安装Linux（双启动或虚拟机）
 
 ## 3. [基础命令行操作](./Chapter_03.md)
 
-终端介绍
 
-文件系统结构
-
-常用命令（如ls, cd, pwd, mkdir, rm等）
-
-文件和目录操作
-
-使用man和--help获取帮助
 
 ## 4. [文件和权限管理](./Chapter_04.md)
 
@@ -77,3 +65,14 @@ Shell脚本基础
 SSH安全实践
 
 ## 10. [开发环境搭建](./Chapter_10.md)
+
+docker
+
+java jdk
+
+tomcat
+
+mysql
+
+redis
+
