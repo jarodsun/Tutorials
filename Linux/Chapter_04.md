@@ -1,22 +1,5 @@
 # 第 4 章 Java 开发环境环境搭建
 
-- [第 4 章 Java 开发环境环境搭建]()
-  - [JDK](#jdk)
-    - [下载配置](#下载配置)
-    - [apt 安装](#apt-安装)
-  - [Tomcat](#tomcat)
-    - [下载配置](#下载配置-1)
-    - [apt 安装](#apt-安装-1)
-  - [Docker](#docker)
-  - [MySql](#mysql)
-    - [docker 安装](#docker-安装)
-    - [apt 安装](#apt-安装-2)
-  - [phpmyadmin](#phpmyadmin)
-    - [docker 安装](#docker-安装-1)
-  - [IDE](#ide)
-    - [下载，运行](#下载运行)
-    - [商店安装(snap 加速)](#商店安装snap-加速)
-
 [返回](./README.md)
 
 ## JDK
